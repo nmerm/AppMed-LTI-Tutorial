@@ -42,8 +42,7 @@ NB: en cas d'installation sur un hébérgement partagé, [utilisez un fichier `.
 
 ### 1.4 Installer Moodle
 - Décompressez/déplacez/copiez le dossier `moodle` (récupéré ci-dessus) afin que votre serveur puisse l'utiliser, et vérifiez les privilèges.
-- Rendez-vous à l'adresse de votre site Moodle depuis un navigateur internet et suivez les instructions de l'assistant d'installation :
-[[https://github.com/nmerm/AppMed-LTI/blob/master/AppMed_LTI_Tuto_InstallationMoodle_1.png|alt=Assistant d'installation de Moodle]]
+- Rendez-vous à l'adresse de votre site Moodle depuis un navigateur internet et suivez les instructions de l'assistant d'installation.
 #### Remarques
 - Vous aurez besoin des informations vous permettant de vous connectez à votre base de données.
 - En cas d'installation sur un serveur de développement local, vous pourriez avoir à activer cURL. Par exemple, pour régler le problème avec EasyPHP, suivez [ces instructions](https://stackoverflow.com/a/38530865).
